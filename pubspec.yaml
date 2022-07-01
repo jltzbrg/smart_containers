@@ -1,5 +1,6 @@
 name: smart_containers
-description: A new Flutter package project.
+description: Smart Containers is a custom Flutter package that let you modify properties of the container widget.
+
 version: 0.0.1
 homepage: https://github.com/jltzbrg/smart_containers
 
